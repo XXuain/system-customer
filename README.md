@@ -1,6 +1,6 @@
 # system_customer 用戶回訪系統
 
-<!-- ![](https://xxuain.github.io/system_customer/img/dem222o.png) -->
+![](https://xxuain.github.io/system_customer/img/demo.png)
 
 ## demo
 [http://34.80.48.226/login](http://34.80.48.226/login)
