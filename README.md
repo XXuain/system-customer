@@ -11,7 +11,7 @@
 主管可分配名單給部屬撥打，部署也能自行取到權限內的名單，更有效率管理新客回饋資料。
 
 ### 相關技術
-+ Laravel
++ Laravel 5.3
 + Vue.js
 + axios 操作 API
 + Bootstrap元件編譯
